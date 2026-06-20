@@ -1,0 +1,12 @@
+
+.env
+
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+
+system-monitor-dashboard/node_modules/
+system-monitor-dashboard/dist/
